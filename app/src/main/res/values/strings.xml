@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiCelebrityTest</string>
+    <string name="search_celebrity">Search Celebrity\n</string>
+    <string name="search">Search</string>
+</resources>
